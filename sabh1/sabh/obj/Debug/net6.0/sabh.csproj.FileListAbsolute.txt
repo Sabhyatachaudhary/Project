@@ -1,0 +1,15 @@
+C:\Users\ETG1\source\repos\sabh1\sabh\obj\Debug\net6.0\sabh.csproj.AssemblyReference.cache
+C:\Users\ETG1\source\repos\sabh1\sabh\obj\Debug\net6.0\sabh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ETG1\source\repos\sabh1\sabh\obj\Debug\net6.0\sabh.AssemblyInfoInputs.cache
+C:\Users\ETG1\source\repos\sabh1\sabh\obj\Debug\net6.0\sabh.AssemblyInfo.cs
+C:\Users\ETG1\source\repos\sabh1\sabh\obj\Debug\net6.0\sabh.csproj.CoreCompileInputs.cache
+C:\Users\ETG1\source\repos\sabh1\sabh\bin\Debug\net6.0\sabh.exe
+C:\Users\ETG1\source\repos\sabh1\sabh\bin\Debug\net6.0\sabh.deps.json
+C:\Users\ETG1\source\repos\sabh1\sabh\bin\Debug\net6.0\sabh.runtimeconfig.json
+C:\Users\ETG1\source\repos\sabh1\sabh\bin\Debug\net6.0\sabh.dll
+C:\Users\ETG1\source\repos\sabh1\sabh\bin\Debug\net6.0\sabh.pdb
+C:\Users\ETG1\source\repos\sabh1\sabh\obj\Debug\net6.0\sabh.dll
+C:\Users\ETG1\source\repos\sabh1\sabh\obj\Debug\net6.0\refint\sabh.dll
+C:\Users\ETG1\source\repos\sabh1\sabh\obj\Debug\net6.0\sabh.pdb
+C:\Users\ETG1\source\repos\sabh1\sabh\obj\Debug\net6.0\sabh.genruntimeconfig.cache
+C:\Users\ETG1\source\repos\sabh1\sabh\obj\Debug\net6.0\ref\sabh.dll
